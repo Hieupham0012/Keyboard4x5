@@ -5,12 +5,24 @@ Layout4x5
 
 | Linh kiện | Tên phân loại | số Lượng cần| Link sản phẩm |
 |--------------|-------|------|-------|
-| PCB 4x5 | KeebForMom | 1 hoặc 2 | <link> |
-|  | 3 x 1 | 3 x 2 | 3 x 3 |
-| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 |
-| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 |
-| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 |
-| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 |
+| PCB 4x5 | KeebForMom | 1 hoặc 2 | [link]<link> |
+| Plate TOP BOT | Mica 20 hoặc 40 có ốc sẵn | 1 | [link]<link>  |
+| ATMEGA32U4 | MCU hoặc AU | 1 | [link]<link>  |
+| Đi-ốt | 1N4148 | 20-40 | [link]<link>  |
+| Điện trở | 220ohm | 1-2 | [link]<link>  |
+| Nút reset | 6mm*2,5mm | 1 | [link]<link>  |
+| Switch | 3 chân hoặc 5 chân | 20-40 | [link]<link>  |
+| Keycap | xda | 1 bộ | [link]<link>  |
+
+## Mặt Trước
+[Imgur](https://i.imgur.com/YOxEwtD.png)
+## Mặt sau
+[Imgur](https://i.imgur.com/h0Zf6b4.png)
+## Sử dụng 1 PCB 4x5
+[Imgur](https://i.imgur.com/gqy94hk.png)
+## Sử dụng 2 PCB 4x5 hàn nối
+[Imgur](https://i.imgur.com/tXHocTX.png)
+[Imgur](https://i.imgur.com/lzFzbdg.png)
 
 1. PCB 4x5 Mạch in 2 lớp <link>
 
