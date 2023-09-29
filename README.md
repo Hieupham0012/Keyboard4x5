@@ -1,5 +1,7 @@
-# Keyboard4x5
-Layout4x5
+# Keyboard 4x5 4x10
+Layout4x5 Layout4x10
+
+**Video hướng dẫn tại đây: <Linkyoutube>**
 
 # Các link kiện cần có cho 1 bàn phím 4x5 hoặc 4x10:
 
