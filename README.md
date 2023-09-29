@@ -13,6 +13,7 @@ Layout4x5
 | Nút reset | 6mm*2,5mm | 1 | [link]<link>  |
 | Switch | 3 chân hoặc 5 chân | 20-40 | [link]<link>  |
 | Keycap | xda | 1 bộ | [link]<link>  |
+| Hot swap giả | 1,1mm | 40-80 | [link]<link>  |
 
 ## Mặt Trước
 <img src="https://i.imgur.com/YOxEwtD.png">
@@ -27,9 +28,9 @@ Layout4x5
 
 ## Sử dụng 2 PCB 4x5 hàn nối
 
-<img src="https://imgur.com/lzFzbdg">
+<img src="https://i.imgur.com/lzFzbdg.png">
 
-<img src="https://imgur.com/tXHocTX">
+<img src="https://i.imgur.com/tXHocTX.png">
 
 1. PCB 4x5 Mạch in 2 lớp <link>
 
