@@ -15,14 +15,21 @@ Layout4x5
 | Keycap | xda | 1 bộ | [link]<link>  |
 
 ## Mặt Trước
-[Imgur](https://i.imgur.com/YOxEwtD.png)
+<img src="https://i.imgur.com/YOxEwtD.png">
+
 ## Mặt sau
-[Imgur](https://i.imgur.com/h0Zf6b4.png)
+
+<img src="https://i.imgur.com/h0Zf6b4.png">
+
 ## Sử dụng 1 PCB 4x5
-[Imgur](https://i.imgur.com/gqy94hk.png)
+
+<img src="https://i.imgur.com/gqy94hk.png">
+
 ## Sử dụng 2 PCB 4x5 hàn nối
-[Imgur](https://i.imgur.com/tXHocTX.png)
-[Imgur](https://i.imgur.com/lzFzbdg.png)
+
+<img src="https://imgur.com/lzFzbdg">
+
+<img src="https://imgur.com/tXHocTX">
 
 1. PCB 4x5 Mạch in 2 lớp <link>
 
