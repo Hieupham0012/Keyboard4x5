@@ -53,3 +53,18 @@ Layout4x5 Layout4x10
 9. Switch sử dụng loại 3 chân pin còn 5 chân pin cắt 2 chân giả vẫn dùng được loại Cherry MX loại phổ biến và nhiều nhất trên thị trường <link>
 
 10. Keycap tham khảo thêm keycap trơn hoặc keycap theo chủ đề mà bạn thích. Nếu phân vân có thể chơi theo hệ tâm linh may mắn giá rẻ hàng đổ đống này của shop <link>
+
+**Tiến hành thực hiện phần cứng**
+
+## Bước 1: Bẻ chân cắm đi-ốt và điện trở gắn lên PCB hàn trước tiên
+
+<img src="https://i.imgur.com/SUj2AmV.jpg">
+
+## Bước 2: Hàn vị trí chân reset dùng để flash auto
+
+<img src="https://i.imgur.com/ZGjG2MH.jpg">
+
+## Bước 3: hàn các chân hot swap giả hoặc gắn case hàn switch thẳng. "nên hàn hot swap để thuận tiện thay thế"
+
+<img src="https://i.imgur.com/1aqEF9x.jpg">
+
