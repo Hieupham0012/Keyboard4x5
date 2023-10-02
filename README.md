@@ -54,7 +54,7 @@ Layout4x5 Layout4x10
 
 10. Keycap tham khảo thêm keycap trơn hoặc keycap theo chủ đề mà bạn thích. Nếu phân vân có thể chơi theo hệ tâm linh may mắn giá rẻ hàng đổ đống này của shop <link>
 
-**Tiến hành thực hiện phần cứng**
+# **Tiến hành thực hiện phần cứng**
 
 ## Bước 1: Bẻ chân cắm đi-ốt và điện trở gắn lên PCB hàn trước tiên
 
