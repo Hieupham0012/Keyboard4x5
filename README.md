@@ -68,3 +68,20 @@ Layout4x5 Layout4x10
 
 <img src="https://i.imgur.com/1aqEF9x.jpg">
 
+## Bước 4: hàn kết nối mạch nếu muốn sử dụng layout 40 thay vì layout 20
+
+<img src="https://i.imgur.com/KA8BA5o.jpg">
+
+## Bước 5: hàn led vào PCB vị trí đánh dấu trên pcb là vị trí GND của chân led
+
+<img src="https://i.imgur.com/zRNme0D.jpg">
+
+## Bước 6: Gắn switch vào plate pcb
+
+<img src="https://i.imgur.com/6q9SWlI.jpg">
+
+## Bước 7: gắn ốc hoàn thiện và lắp keycap
+
+<img src="https://i.imgur.com/neK2Gyj.jpg">
+
+<img src="https://i.imgur.com/Nquwrsk.jpg">
