@@ -7,15 +7,15 @@ Layout4x5 Layout4x10
 
 | Linh kiện | Tên phân loại | số Lượng cần| Link sản phẩm |
 |--------------|-------|------|-------|
-| PCB 4x5 | KeebForMom | 1 hoặc 2 | [link]<link> |
-| Plate TOP BOT | Mica 20 hoặc 40 có ốc sẵn | 1 | [link]<link>  |
-| ATMEGA32U4 | MCU hoặc AU | 1 | [link]<link>  |
-| Đi-ốt | 1N4148 | 20-40 | [link]<link>  |
-| Điện trở | 220ohm | 1-2 | [link]<link>  |
-| Nút reset | 6mm*2,5mm | 1 | [link]<link>  |
-| Switch | 3 chân hoặc 5 chân | 20-40 | [link]<link>  |
+| PCB 4x5 | KeebForMom | 1 hoặc 2 | [link]<https://shope.ee/4AZFwvPNn0> |
+| Plate TOP BOT | Mica 20 hoặc 40 có ốc sẵn | 1 | [link]<https://shope.ee/4AZFwvPNn0>  |
+| ATMEGA32U4 | MCU hoặc AU | 1 | [link]<https://shope.ee/4AZFwvPNn0>  |
+| Đi-ốt | 1N4148 | 20-40 | [link]<https://shope.ee/4AZFwvPNn0>  |
+| Điện trở | 220ohm | 1-2 | [link]<https://shope.ee/4AZFwvPNn0>  |
+| Nút reset | 6mm*2,5mm | 1 | [link]<https://shope.ee/4AZFwvPNn0>  |
+| Switch | 3 chân hoặc 5 chân | 20-40 | [link]<https://shope.ee/4AZFwvPNn0>  |
 | Keycap | xda | 1 bộ | [link]<link>  |
-| Hot swap giả | 1,1mm | 40-80 | [link]<link>  |
+| Hot swap giả | 1,1mm | 40-80 | [link]<https://shope.ee/4AZFwvPNn0>  |
 
 ## Mặt Trước
 <img src="https://i.imgur.com/YOxEwtD.png">
